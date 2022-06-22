@@ -17,6 +17,8 @@ Cơ sở dữ liệu là nơi lưu trữ tất cả dữ liệu theo định d�
 <a name = "DBMS" ></a>
 ### Database Management System
 
+![image_dbms-database-management-systems](https://user-images.githubusercontent.com/90309446/175106608-044f362c-12ae-4c02-92c7-49565beb79fa.jpg)
+
 <img src= "https://imgur.com/P3UOwf2">
 <img src = "https://imgur.com/nxFrqiC">
 Một Hệ thống quản lý cơ sở dữ liệu (Database Management System) gọi tắt là BDMS là một phần mềm có thể thực hiện việc tạo ra, bảo quản và sử dụng cơ sở dữ liệu. BDMS có thể được hiểu như một phần mềm quản lý tập tin hay hồ sơ (File Manager) và công cụ chính của nó là quản lý dữ liệu trong cơ sở dữ liệu chứ không chỉ là chỉ lưu những dữ liệu ấy trên hệ thống.
