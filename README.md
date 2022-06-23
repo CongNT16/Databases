@@ -17,16 +17,15 @@ Cơ sở dữ liệu là nơi lưu trữ tất cả dữ liệu theo định d�
 <a name = "DBMS" ></a>
 ### Database Management System
 
-![image_dbms-database-management-systems](https://user-images.githubusercontent.com/90309446/175106608-044f362c-12ae-4c02-92c7-49565beb79fa.jpg)
 
-<img src= "https://imgur.com/P3UOwf2">
-<img src = "https://imgur.com/nxFrqiC">
+<img src= "./Images/dbms.jpg" width="400">
+
 Một Hệ thống quản lý cơ sở dữ liệu (Database Management System) gọi tắt là BDMS là một phần mềm có thể thực hiện việc tạo ra, bảo quản và sử dụng cơ sở dữ liệu. BDMS có thể được hiểu như một phần mềm quản lý tập tin hay hồ sơ (File Manager) và công cụ chính của nó là quản lý dữ liệu trong cơ sở dữ liệu chứ không chỉ là chỉ lưu những dữ liệu ấy trên hệ thống.
 
 <a name = "RDBMS" ></a>
 ### Relational Database Management System
 
-<img src= "https://imgur.com/LRnvLCG">
+<img src= "./Images/rdbms.jpg" width="400">
   
 RDBMS là viết tắt cho Hệ thống quản lý cơ sở dữ liệu các mối quan hệ (Relational Database Management System). RDBMS lưu những dữ liệu vào một tập hợp các bảng biểu, thường sẽ có liên kết trong một số lĩnh vực chung nào đó giữa các cột trong bảng biểu đó. Hệ thống này cũng cung cấp cho các những người điều hành có liên quan cách sử dụng những dữ liệu được lưu trong bảng biếu đó. Ví dụ: server SQL
 
